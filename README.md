@@ -1,6 +1,9 @@
 # BraceTemplate
 This project provides support for the curly bracket template syntax.
-# Usage
+这个项目对大括号模板语法提供了支持。
+# Bracket template syntax / 大括号模板语法
+
+# Usage/用法
 ````java
  public static void main(String[] args) {
 
